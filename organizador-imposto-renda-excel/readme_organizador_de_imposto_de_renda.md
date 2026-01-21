@@ -42,19 +42,10 @@ O arquivo é composto pelas seguintes abas:
 ---
 
 ## 🖼️ Imagens do Projeto
-> *(Adicione aqui prints do Excel para deixar o repositório mais atrativo)*
 
-Sugestão de imagens:
-- Visão geral da planilha
-- Aba **Titular** preenchida
-- Exemplo de validação de dados
-- Navegação entre abas
+- Aba **Titular**
+![Aba Titular](images/titular.png)
 
-Exemplo:
-```text
-📷 /images/titular.png
-📷 /images/informes.png
-```
 
 ---
 
