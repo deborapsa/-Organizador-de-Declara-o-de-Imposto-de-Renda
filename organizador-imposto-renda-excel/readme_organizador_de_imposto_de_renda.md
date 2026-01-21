@@ -43,8 +43,14 @@ O arquivo é composto pelas seguintes abas:
 
 ## 🖼️ Imagens do Projeto
 
-- Aba **Titular**
+### Aba Titular
 ![Aba Titular](images/titular.png)
+
+### Aba Informes
+![Aba Informes](images/informes.png)
+
+### Aba Notas
+![Aba Notas](images/notas.png)
 
 
 ---
