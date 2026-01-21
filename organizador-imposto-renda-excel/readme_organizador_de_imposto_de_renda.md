@@ -52,7 +52,6 @@ O arquivo é composto pelas seguintes abas:
 ### Aba Notas
 ![Aba Notas](images/notas.png)
 
-
 ---
 
 ## 🚀 Como Utilizar
